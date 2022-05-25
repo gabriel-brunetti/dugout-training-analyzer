@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            DugoutTool - Training Analyzer
-// @namespace       DugtoolTa
+// @namespace       https://github.com/gabriel-brunetti/dugout-training-analyzer
 // @version         0.1
 // @description     This is a useful tool for Dugout-Online game.
 // @author          Gabriel Brunetti
@@ -9,6 +9,7 @@
 // @include         http*://*dugout-online.com/players/none/clubid*
 // @include         https://*dugout-online.com/players_nt/none/clubid/*
 // @require         https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js
+// @icon            https://www.google.com/s2/favicons?domain=dugout-online.com
 // @homepage        https://github.com/gabriel-brunetti/dugout-training-analyzer
 // @downloadURL     https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/do-training-analyzer.js
 // @updateURL       https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/do-training-analyzer.js
