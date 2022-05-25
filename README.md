@@ -10,7 +10,7 @@ Edit of the original DugTool v1.4 by Boris, available [here](https://greasyfork.
 
 ### Funcionamento
 
-![image](https://github.com/gabriel-brunetti/dugout-training-analyzer/blob/main/image.png?raw=true)
+![image](https://github.com/gabriel-brunetti/dugout-training-analyzer/blob/main/doprint.jpeg?raw=true)
 
 - Mostra em números as barras de treinamento na página de análise de treino.
 
