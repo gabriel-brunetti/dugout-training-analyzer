@@ -3,7 +3,7 @@ Ferramenta para visualizar histórico e evolução das finanças do seu clube no
 
 ## Instalação
 1. Instale o [tampermonkey](https://www.tampermonkey.net/) no seu navegador
-2. [Clique aqui](https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/do-training-analyzer.js) e em Instalar na próxima página
+2. [Clique aqui](https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/do-training-analyzer.user.js) e em Instalar na próxima página
 3. Abra o [Dugout](https://dugout-online.com/) e vá para página de finanças 
 
 ### Funcionamento
