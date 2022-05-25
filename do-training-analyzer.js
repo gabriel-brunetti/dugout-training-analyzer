@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name            DugoutTool
-// @namespace       Dugtool
-// @version         1.4
+// @name            DugoutTool - Training Analyzer
+// @namespace       DugtoolTa
+// @version         0.1
 // @description     This is a useful tool for Dugout-Online game.
 // @include         http*://*dugout-online.com/players/details*playerID/*
 // @include         http*://*dugout-online.com/players/none/view*clubid*
