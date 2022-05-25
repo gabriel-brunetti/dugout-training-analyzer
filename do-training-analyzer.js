@@ -1,17 +1,16 @@
 // ==UserScript==
-// @name            DugoutTool - Training Analyzer
-// @namespace       DugtoolTa
-// @version         0.1
-// @description     This is a useful tool for Dugout-Online game.
-// @include         http*://*dugout-online.com/players/details*playerID/*
-// @include         http*://*dugout-online.com/players/none/view*clubid*
-// @include         http*://*dugout-online.com/players/none/clubid*
-// @include         https://*dugout-online.com/players_nt/none/clubid/*
-// @include         http*://*dugout-online.com/finances/*
-// @require         https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js
-// @homepage        https://github.com/gabriel-brunetti/dugout-training-analyzer
-// @downloadURL     https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/do-training-analyzer.js
-// @updateURL       https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/do-training-analyzer.js
+// @name         DOFinanceTools
+// @version      1.9
+// @description  Better finance visualization for dugout-online
+// @author       Gabriel Bitencourt
+// @require      https://unpkg.com/dexie/dist/dexie.min.js
+// @require      https://code.jquery.com/ui/1.13.1/jquery-ui.min.js
+// @require      https://cdn.jsdelivr.net/npm/echarts@5.3.2/dist/echarts.min.js
+// @include      http*dugout-online.com/home/*
+// @include      http*dugout-online.com/finances/*
+// @homepage     https://github.com/gabrielbitencourt/do-finance-tools
+// @downloadURL  https://github.com/gabrielbitencourt/do-finance-tools/raw/main/finance-tools.user.js
+// @updateURL    https://github.com/gabrielbitencourt/do-finance-tools/raw/main/finance-tools.user.js
 // ==/UserScript==
 
 var APPNAME = "DugoutTool v1.4";
