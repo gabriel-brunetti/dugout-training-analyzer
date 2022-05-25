@@ -5,7 +5,7 @@ Edit of the original DugTool v1.4 by Boris, available [here](https://greasyfork.
 ## Instalação 
 
 1. Instale o [tampermonkey](https://www.tampermonkey.net/) no seu navegador
-2. [Clique aqui](https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/do-training-analyzer.js) e em Instalar na próxima página
+2. [Clique aqui](https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/teste.js) e em Instalar na próxima página
 3. Abra o [Dugout](https://dugout-online.com/) e vá para a página de análise de treino. Essa função só está disponível para usuários Premium/ PA.
 
 ### Funcionamento
