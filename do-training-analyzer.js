@@ -10,8 +10,8 @@
 // @include         http*://*dugout-online.com/finances/*
 // @require         https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js
 // @homepage        https://github.com/gabriel-brunetti/dugout-training-analyzer
-// @downloadURL     https://raw.githubusercontent.com/gabriel-brunetti/dugout-training-analyzer/main/do-training-analyzer.js
-// @updateURL       https://raw.githubusercontent.com/gabriel-brunetti/dugout-training-analyzer/main/do-training-analyzer.js
+// @downloadURL     https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/do-training-analyzer.js
+// @updateURL       https://github.com/gabriel-brunetti/dugout-training-analyzer/raw/main/do-training-analyzer.js
 // ==/UserScript==
 
 var APPNAME = "DugoutTool v1.4";
